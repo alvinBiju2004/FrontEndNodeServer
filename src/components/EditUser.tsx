@@ -1,4 +1,3 @@
-// components/EditUser.tsx
 import { useState, useEffect } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { userService,} from '../services/userService';

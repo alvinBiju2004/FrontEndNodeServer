@@ -1,4 +1,3 @@
-// components/CreateUser.tsx
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { userService } from '../services/userService';
